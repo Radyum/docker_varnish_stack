@@ -1,0 +1,1 @@
+2018/05/28 14:57:07 [emerg] 1#1: host not found in upstream "php:9000" in /etc/nginx/conf.d/upstream.conf:1
